@@ -6,3 +6,4 @@ All files are presented in Jupyter Notebooks with a handy shortcut to open them 
 
 ## Table of Contents
 * **[Timing and Profiling](Timing%20and%20Profiling%20Python%20code)**
+* **[String Formatting](String%20Formatting)**
