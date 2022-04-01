@@ -1,0 +1,5 @@
+# Python String Formatting   <a href="https://colab.research.google.com/github/Ahmad-Zaki/Python-Notes/blob/main/Timing%20and%20Profiling%20Python%20code/string-formatting.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open and Execute in Google Colaboratory"></a>
+
+Python has had an awesome sting formatter for a while but their official documentation on it is not very straightforward and far too technical. In this notebook, we'll go through some of the most common use-cases of string formatting in Python and see how flexible formatted string can be!
+
+There are two ways in Python to format a string. The old way uses the `%` formatter, while the new, more convenient method uses the `.format` method of the string or directly writing a formatted string using `f-strings`.
