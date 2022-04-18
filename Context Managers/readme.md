@@ -1,0 +1,5 @@
+# Context Managers   <a href="https://colab.research.google.com/github/Ahmad-Zaki/Python-Notes/blob/main/Context%20Managers/context-managers.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open and Execute in Google Colaboratory"></a>
+
+Context Managers allow you to allocate and release resources precisely when you want to. The most widely used example of context managers is the `with` statement. It lets you create a sprecific context for your code to run into, then remove the context once the code execution is done.
+
+The `with` statement in Python is a quite useful tool for properly managing external resources in your programs. It allows you to take advantage of existing Context Managers to automatically handle the setup and teardown phases whenever you’re dealing with external resources or with operations that require those phases.
