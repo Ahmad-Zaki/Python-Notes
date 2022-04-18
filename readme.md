@@ -9,3 +9,4 @@ All files are presented in Jupyter Notebooks with a handy shortcut to open them 
 * **[String Formatting](String%20Formatting)**
 * **[Iterators and Generators](Iterators%20and%20Generators)**
 * **[Function Decorators](Function%20Decorators)**
+* **[Context Managers](Context%20Managers)**
